@@ -1,0 +1,38 @@
+ 
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Database
+backend/*.db
+backend/paymetrics.db
+
+# Build files
+frontend/build/
+frontend/dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+backend/logs/
+frontend/logs/
+
+# Temporary files
+*.tmp
+*.temp
