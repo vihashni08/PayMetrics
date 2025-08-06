@@ -36,3 +36,9 @@ frontend/logs/
 # Temporary files
 *.tmp
 *.temp
+credentials.json
+token.json
+*.db
+__pycache__/
+venv/
+.env
